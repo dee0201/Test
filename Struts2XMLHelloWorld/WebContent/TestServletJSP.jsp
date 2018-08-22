@@ -13,7 +13,6 @@
 	<s:textfield name = "bbb" label = "test2"></s:textfield>
 	<s:textfield name = "ccc" label = "test3"></s:textfield>
 	<s:textfield name = "ddd" label = "test4"></s:textfield>
-	<s:submit/>
 </s:form>
 </body>
 </html>
